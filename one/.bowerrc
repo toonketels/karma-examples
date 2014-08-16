@@ -1,1 +1,3 @@
-src/vendor
+{
+	"directory": "src/vendor"
+}
